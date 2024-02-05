@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Build output
+Builds/
+
+# Compiled code
+*.o
+*.so
+*.dll
+*.exe
