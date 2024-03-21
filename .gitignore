@@ -3,7 +3,9 @@
 
 # Build output
 Builds/
-
+**/Builds
+**/JuceLibraryCode
+**/.DS_Store
 # Compiled code
 *.o
 *.so
