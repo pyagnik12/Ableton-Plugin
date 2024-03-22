@@ -1,15 +1,4 @@
-/*
-  ==============================================================================
 
-    LV_DialComponent.h
-    Created: 24 Oct 2021 12:17:36am
-    Author:  Landon Viator
- 
-    The last arg for the dial style is 1-3, you can also set the colors for each with the
-    usual calls.
-
-  ==============================================================================
-*/
 
 #pragma once
 

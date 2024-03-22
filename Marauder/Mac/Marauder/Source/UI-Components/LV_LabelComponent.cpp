@@ -1,12 +1,4 @@
-/*
-  ==============================================================================
 
-    LV_LabelComponent.cpp
-    Created: 24 Oct 2021 1:13:14am
-    Author:  Landon Viator
-
-  ==============================================================================
-*/
 
 #include <JuceHeader.h>
 #include "LV_LabelComponent.h"

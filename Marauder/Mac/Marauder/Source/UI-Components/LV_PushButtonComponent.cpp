@@ -1,12 +1,4 @@
-/*
-  ==============================================================================
 
-    LV_PushButtonComponent.cpp
-    Created: 24 Oct 2021 8:30:24pm
-    Author:  Landon Viator
-
-  ==============================================================================
-*/
 
 #include <JuceHeader.h>
 #include "LV_PushButtonComponent.h"

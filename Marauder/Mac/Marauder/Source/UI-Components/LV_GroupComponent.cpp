@@ -1,12 +1,4 @@
-/*
-  ==============================================================================
 
-    LV_GroupComponent.cpp
-    Created: 24 Oct 2021 1:01:25am
-    Author:  Landon Viator
-
-  ==============================================================================
-*/
 
 #include <JuceHeader.h>
 #include "LV_GroupComponent.h"
