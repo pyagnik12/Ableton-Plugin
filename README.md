@@ -57,7 +57,7 @@ We welcome contributions from the community! Please follow these steps if you'd 
 
 ## License
 
-This plugin is released under the MIT License. See the `LICENSE` file for details.
+This plugin is created with the free versioin of Juce, allowing it to be open source.
 
 ## Contact
 
